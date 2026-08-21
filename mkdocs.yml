@@ -14,7 +14,6 @@ copyright: 'Copyright &copy; 2026 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  - Survey: survey.md
   - Team: team.md
 
 # Configuration
