@@ -15,6 +15,7 @@ copyright: 'Copyright &copy; 2026 University of Colorado Boulder'
 nav:
   - Home: index.md
   - Team: team.md
+  - Collaborate: cowork.md
 
 # Configuration
 theme:
