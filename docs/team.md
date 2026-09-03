@@ -2,7 +2,7 @@
 
 ## Principal Investigators
 
-In alphabetical order:
+In alphabetical order by surname:
 
 - **Stevan Earl** (ESIIL Tech Lead) | Arizona State University
 - **Sarah Elmendorf** - _sarah.elmendorf@colorado.edu_ | University of Colorado
@@ -12,7 +12,7 @@ In alphabetical order:
 
 ## Current Members
 
-In alphabetical order:
+In alphabetical order by surname:
 
 - **Derek Briggs** | University of Colorado
 - **Rui Cheng** | Claremont McKenna College
