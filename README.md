@@ -1,6 +1,6 @@
-# "AI in a Day" Workshop Series
+# "AI in a Day" Working Group
 
-This repository hosts the workshop materials developed by this ESIIL-funded synthesis working group.
+This repository hosts the website for the joint [NCEAS](https://www.nceas.ucsb.edu/)-[ESIIL](https://esiil.org/) synthesis working group.
 
 ## Repository Organization
 
