@@ -4,7 +4,7 @@ site_author: "'AI in a Day' Working Group"
 site_url: https://cu-esiil.github.io/AI-in-a-day_website
 
 # Repository
-repo_name: AI-in-a-day
+repo_name: AI-in-a-day_website
 repo_url: https://github.com/CU-ESIIL/AI-in-a-day_website
 # The edit URI points MkDocs Material at the docs/ source so page edit links open in GitHub edit mode.
 edit_uri: edit/main/docs/
