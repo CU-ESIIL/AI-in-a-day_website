@@ -14,7 +14,6 @@ In alphabetical order by surname:
 
 In alphabetical order by surname:
 
-- **Derek Briggs** | University of Colorado
 - **Rui Cheng** - _rui.cheng@claremontmckenna.edu_| Claremont McKenna College
 - **Carmen Galaz García** - _c\_galazgarcia@ucsb.edu_ | University of California, Santa Barbara
 - **Greg Maurer** - _gmaurer@nmsu.edu_ | New Mexico State University
