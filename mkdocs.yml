@@ -16,6 +16,7 @@ nav:
   - Home: index.md
   - Team: team.md
   - Collaborate: cowork.md
+  - Participate: participate.md
 
 # Configuration
 theme:
