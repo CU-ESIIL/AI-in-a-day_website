@@ -90,3 +90,7 @@ test-results/
 # Folders to ignore
 data/
 graphs/
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
