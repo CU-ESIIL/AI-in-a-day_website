@@ -8,7 +8,7 @@ In alphabetical order by surname:
 - **Sarah Elmendorf** - _sarah.elmendorf@colorado.edu_ | University of Colorado
 - **Nate Emery** - _nemery@ucsb.edu_ | University of California, Santa Barbara
 - **Li Kui** - _lkui@ucsb.edu_ | University of California, Santa Barbara
-- **Nick J Lyon** (ESIIL Collab Lead) - _[njlyon0.github.io](https://njlyon0.github.io/)_ | Long Term Ecological Research (LTER) Network Office
+- **Nick J Lyon** (ESIIL Collab Lead) - _nick.lyon@wisc.edu_ | University of Wisconsin-Madison, Data Science Institute
 
 ## Current Members
 
