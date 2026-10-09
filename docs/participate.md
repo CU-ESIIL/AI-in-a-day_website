@@ -1,7 +1,5 @@
 # Participation Guidelines 
 
-### _DRAFT UNDER CONSTRUCTION_
-
 We are a highly collaborative group of environmental scientists, educators, and data scientists who strive for inclusivity. We're so excited that you're potentially interested in working with us or our materials! **Please see the heading below that best fits your interest.**
 
 If you have follow-up questions, please feel free to reach out to one of [the principal investigators](https://cu-esiil.github.io/AI-in-a-day_website/team/) (PIs) via email and we're happy to try to answer those questions!
@@ -18,16 +16,21 @@ Keeping any kind of teaching materials up-to-date takes a lot of effort, and tha
 
 If you're not comfortable contributing that way, or feel that your suggestions are better-suited for a back-and-forth dialogue, please reach out to one of [the PIs](https://cu-esiil.github.io/AI-in-a-day_website/team/)
 
-## I'd like to Join the Group
+## I'd Like to Join the Group
 
-If you'd like to join the group, that's awesome! We are definitely interested in growing our team by adding collaboration-minded people who are passionate about education and/or generative AI. That said, we recognize that one of the most important facets of group work like this is a shared set of commitments and values ([Elmendorf _et al._ 2026](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70378)).
+If you'd like to join the group, that's awesome! We are interested in growing our team with collaboration-minded people who are passionate about education and/or generative AI (genAI). 
 
-If you are interested in joining our team, please read our core group norms documents and ask yourself whether you'd be willing to abide by them for the purposes of working with this team. Those documents include our:
+Workshop development is in its early stages. Our goal is to create materials that help the environmental science and ecology communities to:
 
-\[_CGG/NL will add 'view only' GoogleDoc links with approval of group_\]
+Use genAI to augment, not replace, human reasoning, expertise, and judgment in the scientific process.
+Critically evaluate the strengths and limitations of genAI applications. Treat ethics and environmental responsibility as core considerations in any use of genAI.
 
-- Code of Conduct 
-- Intellectual Credit Policy
-- AI Acceptable Use Agreement
+We recognize that scientists hold a wide range of views on genAI, from skeptics to power users, and we welcome collaborators from across that range who are willing to engage with these tools critically and constructively.
 
-If you've reviewed _all_ of those documents and are willing to abide by them, please reach out to one of [the PIs](https://cu-esiil.github.io/AI-in-a-day_website/team/) to introduce yourself and get the conversation started about potentially joining the group.
+Beyond a shared vision for the workshop, one of the most important facets of group work like this is a shared set of commitments and values. If you are interested in joining our team, please read our core group norms documents and consider whether they align with your expectations. These are:
+
+- [Code of conduct](https://drive.google.com/file/d/1Mj7v-a5aN3ZrtHdvqFKoCQ_dPX3T6Qkl/view?usp=drive_link)
+- [Intellectual credit policy](https://drive.google.com/file/d/1ez1OLahACjX5Ds6QM-CpClTWqXNlLbNm/view?usp=drive_link)
+- [AI acceptable use agreement](https://drive.google.com/file/d/1pfeozqoqt4NFDpicNURfIVLoXdQfDVqo/view?usp=drive_link)
+
+If you share our goals for the workshop, have reviewed these documents, and are willing to abide by them, please reach out to PI Nate Emery ([nemery@ucsb.edu](mailto:nemery@ucsb.edu)) to introduce yourself and get the conversation started about potentially joining the group and some ideas of what you’d like to contribute.
