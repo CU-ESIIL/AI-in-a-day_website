@@ -18,16 +18,17 @@ If you're not comfortable contributing that way, or feel that your suggestions a
 
 ## I'd Like to Join the Group
 
-If you'd like to join the group, that's awesome! We are interested in growing our team with collaboration-minded people who are passionate about education and/or generative AI (genAI). 
+If you'd like to join the group, that's awesome! We are interested in growing our team with collaboration-minded people who are passionate about education or generative AI (genAI). 
 
 Workshop development is in its early stages. Our goal is to create materials that help the environmental science and ecology communities to:
 
-Use genAI to augment, not replace, human reasoning, expertise, and judgment in the scientific process.
-Critically evaluate the strengths and limitations of genAI applications. Treat ethics and environmental responsibility as core considerations in any use of genAI.
+- Use genAI to augment, not replace, human reasoning, expertise, and judgment in the scientific process.
+- Critically evaluate the strengths and limitations of genAI applications.
+- Treat ethics and environmental responsibility as core considerations in any use of genAI.
 
 We recognize that scientists hold a wide range of views on genAI, from skeptics to power users, and we welcome collaborators from across that range who are willing to engage with these tools critically and constructively.
 
-Beyond a shared vision for the workshop, one of the most important facets of group work like this is a shared set of commitments and values. If you are interested in joining our team, please read our core group norms documents and consider whether they align with your expectations. These are:
+Beyond a shared vision for the workshop, one of the most important facets of group work like this is a shared set of [commitments and values](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210x.70378). If you are interested in joining our team, please read our core group norms documents and consider whether they align with your expectations. These are:
 
 - [Code of conduct](https://drive.google.com/file/d/1Mj7v-a5aN3ZrtHdvqFKoCQ_dPX3T6Qkl/view?usp=drive_link)
 - [Intellectual credit policy](https://drive.google.com/file/d/1ez1OLahACjX5Ds6QM-CpClTWqXNlLbNm/view?usp=drive_link)
